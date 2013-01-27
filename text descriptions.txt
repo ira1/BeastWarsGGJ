@@ -15,7 +15,17 @@ Team Info
 
 Game Concept - Ira Hochman
 Art - Denise Batalha, Nikki Hanafin
-Game Design - Andrew Grant, Carly Schraven, Denise Batalha, Nikki Hanafin, Ira Hochman, Logan Benson
+Game Design - Andrew Grant, Carly Schraven, Denise Batalha, Ira Hochman, Nikki Hanafin, Logan Benson
 Programming - Andrew Grant, Carly Schraven, Ira Hochman
 Project Management - Andrew Grant, Ira Hochman
 Sound - Kevin Notar
+
+
+Contributors
+Ira Hochman (65090)
+lilmaeval (64576)
+denisebatalha (64351)
+Logan (63802)
+nhanafin (63578)
+knotar
+wizardness
