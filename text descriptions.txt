@@ -1,0 +1,21 @@
+
+Summary
+
+Beast Wars: Ecology meets Interspecies Conflict!
+
+Beast Wars is a real time strategy game where you battle your opponents with armies populated by real world animals using their actual capabilities plus accelerated evolution and technological enhancements. Battles can be held in a variety of ecosystems located anywhere around the globe. Factual knowledge of the animal and ecosystems give an advantage in winning the game.
+
+In this preview release, you can play against the computer in the outback of Queensland, Australia, defending your home turf with an army composed of kangaroos, rabbits and poisonous cane toads.
+
+Use 1, 2, 3  to select all your Toads, Rabbits or Kangaroo respectively. Q, W, E spawns new Toads, Rabbits and Kangaroos respectively from their warrens in the lower right. Space bar to pause, ESC to reset.
+
+
+
+Team Info
+
+Game Concept - Ira Hochman
+Art - Denise Batalha, Nikki Hanafin
+Game Design - Andrew Grant, Carly Schraven, Denise Batalha, Nikki Hanafin, Ira Hochman, Logan Benson
+Programming - Andrew Grant, Carly Schraven, Ira Hochman
+Project Management - Andrew Grant, Ira Hochman
+Sound - Kevin Notar
