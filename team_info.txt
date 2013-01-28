@@ -1,0 +1,49 @@
+
+Summary
+
+Beast Wars: 8 Bits of Vengence!
+
+In Beast Wars, Ecology meets Interspecies Conflict!
+
+Beast Wars is a real time strategy game where you battle your opponents with armies populated by real world animals using their actual capabilities plus accelerated evolution and technological enhancements. Battles can be held in a variety of ecosystems located anywhere around the globe. Factual knowledge of the animal and ecosystems gives an advantage in winning the game.
+
+In this preview release, you can play against the computer in the outback of Queensland, Australia, defending your home turf with an army composed of kangaroos, rabbits and poisonous cane toads.
+
+Use 1, 2, 3  to select all your Toads, Rabbits or Kangaroo respectively. Q, W, E spawns new Toads, Rabbits and Kangaroos respectively from their warrens in the lower right. Space bar to pause, ESC to reset.
+
+Clicking anywhere on the screen will cause your selected animals to move to that point; they will engage in battle any enemies along the way.
+
+The heart counter in the upper right shows your supply. It steadily increases during the game and goes down when you spawn animals.  Each animal consumes some supply before it can spawn out of its nest. Toads cost 1 supply, Rabbits cost 2 and Kangaroos cost 3.
+
+Beast 
+
+Team Info
+
+Game Concept - Ira Hochman
+Art - Denise Batalha, Nikki Hanafin
+Game Design - Andrew Grant, Carly Schraven, Denise Batalha, Ira Hochman, Nikki Hanafin, Logan Benson
+Programming - Andrew Grant, Carly Schraven, Ira Hochman
+Project Management - Andrew Grant, Ira Hochman
+Sound - Kevin Notar
+
+
+Contributors
+Ira Hochman (65090)
+lilmaeval (64576)
+denisebatalha (64351)
+Logan (63802)
+nhanafin (63578)
+knotar
+wizardness
+
+
+Diversifiers
+Stay Inside The Box: The whole game takes place in just one screen, no scrolling or changing screens in any way is allowed.
+Bigger Picture: The game touches on a political, environmental or social issue.
+
+
+Platforms
+Web browser with special plugins (Unity player, Torque,...)
+…Plan to release plugin free version
+
+Tech = Unity with C# scripting
