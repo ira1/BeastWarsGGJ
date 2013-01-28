@@ -29,3 +29,15 @@ Logan (63802)
 nhanafin (63578)
 knotar
 wizardness
+
+
+Diversifiers
+Stay Inside The Box: The whole game takes place in just one screen, no scrolling or changing screens in any way is allowed.
+Bigger Picture: The game touches on a political, environmental or social issue.
+
+
+Platforms
+Web browser with special plugins (Unity player, Torque,...)
+…Plan to release plugin free version
+
+Tech = Unity with C# scripting
